@@ -1,0 +1,18 @@
+---
+title: friendship
+permalink: posts/{{ title | slug }}/index.html
+date: '2024-09-29'
+tags: [reading, thoughts]
+---
+
+> A celebration of how it began, rather than a chronicle of free fall, a tribute to that first sip, rather than all the spinning rooms that followed. It would be an account of love and duty, not just anger and hatred, and it would be filled with dreams, and the memory of having once looked to the future, and an eagerness to dream again. It would be boring, because you simply had to be there. It would be poetry and not history. (*Stay True*, Hua Hsu)
+
+Without meaning to, I read two books about friendship in very close succession over the past two weeks. The first was *Stay True*, Hua Hsu’s devastating and incandescent memoir about his college friend who was killed in a carjacking. The second, which I’m still partway through, is *The Other Significant Others* by Rhaina Cohen, an investigation into the role of friendship in our lives. I had read about this book ages ago in [Culture Study](https://annehelen.substack.com/p/reimagining-life-with-friendship) and shelved it in my TBR pile.
+
+I hadn’t intentionally picked up *The Other Significant Others* so close to finishing *Stay True*, but perhaps I was already primed to read something about friendship. They are two very different books—*Stay True* is also very much about grief and tragedy and wondering how you’re meant to grow old yourself when your friend is frozen in time, while *The Other Significant Others* is squarely a study of friendship and the way it’s been diminished to make room for romantic partnerships, to everyone’s detriment. But both of them are about how friendship can be at the heart of your life in a way that isn't always recognised by society.
+
+After I finished *Stay True*, I found myself thinking a lot about how deeply a friendship can sear itself into the fibres of your being. How much of our stories and our narratives about our lives are woven into this collective memory, of having said to someone *let’s travel together next year*, *I’ll treat you next time*, or *see you on Monday*. You form your life around someone who means a lot to you, you see your future bound up with them.
+
+One of the points of Cohen’s book is that friendship can (and has, throughout history) provide a deep emotional bond of the sort that’s these days associated with romance. It was unexpectedly cathartic to read this laid out so clearly with examples. I think it is single women who perhaps experience this most of all: the salvation that friendship can be, in a world that largely expects you to be partnered and perceives you to be incomplete otherwise. It is affirming and uplifting to read that there *are* many friendships around the world that centre each other, and that people in these relationships have struggled to frame their lives simply because there isn’t a socially understood framework for a life that centres around your friends the same way you might centre a spouse.
+
+I feel something in me echoing when I read these books, a resonant call, and a fierce sort of validation that friendship is finally finding its time in the sun again, honoured for what it is—not subordinate or secondary to romance, but fundamental to one’s happiness, and to how you think about your life. I have never felt the need for a spouse to make my life complete. I am extraordinarily fulfilled and fortunate in my friendships, and I know what it is to have friends with whom *you simply had to be there. It would be poetry and not history.* The great friendships of our lives write the lyrics that stay with us forever.

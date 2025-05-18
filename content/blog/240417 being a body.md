@@ -1,0 +1,14 @@
+---
+title: being a body
+permalink: posts/{{ title | slug }}/index.html
+date: '2024-04-17'
+tags: [reading, thoughts]
+---
+
+I’ve been thinking a lot, lately, about being a body. It’s a train of thought I perennially return to, now and then, but recently it was sparked off by my trip to Japan last month, which left me so tired that I was unable to do any writing for nearly a full week. Every time I hit a low ebb in my creative rhythm like this, I am reminded all over again that we are bodies. We are not minds writing in isolation. If my body is worn down, it doesn’t matter how sharp my mind is, it’s going to be hard to do things.
+
+One hour of free time with an exhausted body is not the same as one hour of free time with a fresh body. I just finished reading *Saving Time* by Jenny Odell, which interrogates at length the idea that the body is of necessity a mediator of how we experience time. A body that finds it hard to move about freely, or suffers social prejudices and class disadvantages, is going to have a very different relationship with time from a body that has to reckon with none of these things. A body that cannot safely walk a dark path at night will bleed time from having to take the long, well-lighted way, as well as being in a heightened state of anxiety the whole way, which bleeds energy, which bleeds—time.
+
+(This is just one of a number of ideas in *Saving Time*, which took me a few weeks to read, not because it was a slog but because it was so dense with insight I could not read it fast. This, too, was an experience of time stretching out that destabilised me briefly. I felt off-kilter that my book time, by which I mean the few days to one week that it normally takes me to read a book, had been thrown off its clock so; I had to recalibrate, I had to surrender to the pace of the book and know that the clock was a construct anyway. Books take as long as they take to read, no more or less.)
+
+I didn’t intend to write about time when I started this post. I think what I wanted to say was that, when we think about the fact that we are bodies, and we are all ultimately constrained by the finite limits of our bodies, we are also reminded that we are a part of this physical world. That the way we negotiate the space we take up, the space we give other bodies (plant, human, animal or mineral), and our movements through the world will always be incomplete if we don’t respect the body and understand how much it shapes our experience of life. But perhaps I’ve simply been led to a conclusion about the interconnectedness of all things. Odell writes about languages where the words for ‘time’ and ‘place’ are the same, because there is no artificial division of time into hours and time is just where we are at any given present moment. Where our bodies breathe, and live.

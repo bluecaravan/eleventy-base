@@ -34,4 +34,4 @@ You can reach me by email at hello at chencuifen dot com.
 - Research.
 
 ## colophon
-This website is made with [Eleventy](https://www.11ty.dev/) (using the Eleventy base blog template) and deployed with Cloudflare Pages. Fonts used are Inter for the body text and Fraunces for the headers, served by [Bunny](https://fonts.bunny.net/about). Domain hosted with [porkbun](https://porkbun.com/), an oddly satisfying registrar. Zero analytics, I don't track anything. I have AI-scraping bots blocked to the best of my ability.
+This website is made with [Eleventy](https://www.11ty.dev/) (using the Eleventy base blog template) and deployed with Netlify. Fonts used are Inter for the body text and Fraunces for the headers, served by [Bunny](https://fonts.bunny.net/about). Domain hosted with [porkbun](https://porkbun.com/), an oddly satisfying registrar. Zero analytics, I don't track anything. I have AI-scraping bots blocked to the best of my ability.

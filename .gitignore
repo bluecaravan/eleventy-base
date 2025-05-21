@@ -2,4 +2,4 @@ _site/
 node_modules/
 .cache
 *.plist
-.Eaglefiler Metadata.plist
+content/media/.EagleFiler Metadata.plist

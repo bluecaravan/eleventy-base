@@ -1,8 +1,8 @@
 /* Defaults */
-@import url(https://fonts.bunny.net/css?family=inter:400,400i,700,700i|fraunces:400,400i,500,500i,600,600i,700,700i);
+@import url(https://fonts.bunny.net/css?family=inter:400,400i,700,700i|fraunces:400,400i,500,500i,600,600i,700,700i|inclusive-sans:400,400i);
 
 :root {
-	--font-family: Inter, -apple-system, system-ui, sans-serif;
+	--font-family: "Inclusive Sans", Inter, -apple-system, system-ui, sans-serif;
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono,
 		Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono,
 		Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New,
@@ -61,7 +61,7 @@ body {
 	margin: 0 auto;
 	font-family: var(--font-family);
 	font-size: var(--text-base);
-	line-height: 1.7;
+	line-height: 1.6;
 	color: var(--text-color);
 	background-color: var(--background-color);
 	text-rendering: optimizeLegibility;
